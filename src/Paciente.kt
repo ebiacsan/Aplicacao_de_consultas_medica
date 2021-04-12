@@ -1,5 +1,6 @@
-class Paciente {
-    var numCartao: String? = null;
-    var motivo: String? = null;
-    
+
+class Paciente: Pessoa() {
+     var numCartaoConsulta: String? = null
+     var motivo: String? = null
+
 }
