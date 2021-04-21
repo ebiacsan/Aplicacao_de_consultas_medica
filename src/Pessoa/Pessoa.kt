@@ -1,3 +1,5 @@
+package Pessoa
+
 open class Pessoa {
     open var idade: Int? = null
     open var nome: String? = "Luis"
